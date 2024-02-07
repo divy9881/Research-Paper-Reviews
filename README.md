@@ -37,6 +37,7 @@ Research Paper Reviews on Databases, Big Data, Distributed ML, Advanced Learning
 - [Orchestrating Data Placement and Query Execution in Heterogeneous CPU-GPU DBMS](https://gist.github.com/divy9881/07279a6355eb4890b28ee1e70b18294f)
 
 #### Remote Direct Memory Access(RDMA) Databases
+- [The End of Myth: Distributed Transactions Can Scale](https://gist.github.com/divy9881/8c760b5f327a33e92b2c01e57192b9c5)
 
 #### SmartNIC Databases
 - [Offloading Distributed Applications onto SmartNICs using iPipe](https://gist.github.com/divy9881/e8cd0d99ed8a07ad5ae8c0b49958a4dd)
